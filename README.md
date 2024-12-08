@@ -23,3 +23,7 @@
 # Slides for the presentation
 
 - Presentation: https://docs.google.com/presentation/d/1spPUnlbVJRuxgKYEfhwk3f42YWdcsgn_8NMYOx2n-CA/edit?usp=sharing
+
+# Couchbase Developer Resources 
+
+- https://www.couchbase.com/developers/
